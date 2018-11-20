@@ -20,12 +20,14 @@ header{
 	/*! font-size:1.5em; */
 }
 main{
-	/*! width:960px; */
+	/* Setting `width:960px;` causes horizontal scroll on mobile*/
+	/* max-width gives same affect on desktop, without changing mobile */
+	max-width:960px;
 }
 footer {
 	display:flex;
-	justify-content:space-between;
-	/*! width:100%;*/
+	justify-content:space-evenly;
+	width:100%;
 }
 footer *{
 	margin: 5px;
