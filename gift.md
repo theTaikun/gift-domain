@@ -9,7 +9,7 @@ header-includes:
 # Merry Christmas!
 ## And congratulations on your new website :)
 
-<span class="example-domain">www.example.com</span>
+<span class="example-domain">example.com</span>
 </header>
 <main>
 
@@ -24,10 +24,10 @@ Rather than just give you an empty domain, I wanted to make something from scrat
 2. Start a business.
 3. Make a web design/artistic portfolio to show off your work.
 4. Generate as many email addresses as you want, such as:
-	<!-- For the emails below, use javascript 'window.location.hostname' to get the wwww.example.com-->
-	* born2Bwild@<span class="example-domain">www.example.com</span>
-	* foxy-grandma@<span class="example-domain">www.example.com</span>
-	* fortnite.fragger62@<span class="example-domain">www.example.com</span>
+	<!-- For the emails below, use javascript 'window.location.hostname' to get the wexample.com-->
+	* born2Bwild@<span class="example-domain">example.com</span>
+	* foxy-grandma@<span class="example-domain">example.com</span>
+	* fortnite.fragger62@<span class="example-domain">example.com</span>
 5. Build a personal website for when you're famous, so your fans can find facts about you.
 
 Of ourse, I'd be happy to help you get started with any ideas you have.
