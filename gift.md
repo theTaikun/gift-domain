@@ -50,7 +50,7 @@ Use some other domain for that stuff.
 The source to this page is free and publicly available on [GitHub](https://github.com/theTaikun/gift-domain). Fork it and modify it if your little heart so desires.
 To any strangers reading this, if you find any part of this page useful, please feel free to fork it and make it your own.
 
-Even though it appears that I listed your domain name a few times, there is actually no personal information about you anywhere in the source code; it changes based on the url entered. See [taikun.github.io](https://thetaikun.github.io/gift-domain) to see what I'm talking about.
+Even though it appears that I listed your domain name a few times, there is actually no personal information about you anywhere in the source code; it changes based on the url entered. See [theTaikun.github.io](https://thetaikun.github.io/gift-domain) to see what I'm talking about.
 
 </section>
 <section>
@@ -62,6 +62,6 @@ I've been making tweaks here and there, and tracking the versioning using github
 </section>
 </main>
 <footer>
-[iaphillips.com](https://www.iaphillips.com) [GitHub Profile](https://github/theTaikun) [Email](mailto:github_webdev@iaphillips.com)
+[iaphillips.com](https://www.iaphillips.com) [GitHub Profile](https://github.com/theTaikun) [Email](mailto:github_webdev@iaphillips.com)
 </footer>
 <script src="assets/js/default.js"></script>
